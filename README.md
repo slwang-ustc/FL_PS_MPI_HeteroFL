@@ -4,7 +4,7 @@
 
 This is an implementation of [HeteroFL: Computation and communication efficient federated learning for heterogeneous clients](https://arxiv.org/abs/2010.01264) using MPI and Pytorch.
 
-The official implementation of this paper is [here]([https://github.com/HarukiYqM/All-In-One-Neural-Composition](https://github.com/diaoenmao/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients).
+The official implementation of this paper is [here](https://github.com/diaoenmao/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients).
 
 * Global hyperparameters are defined in config.yml
 * server_main.py is the main file to run server code
