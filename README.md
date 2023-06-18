@@ -1,4 +1,4 @@
-# Implementation of [Flanc](https://openreview.net/pdf?id=wfel7CjOYk) using MPI
+# Implementation of [HeteroFL](https://openreview.net/pdf?id=wfel7CjOYk) using MPI
 
 ## Introduction
 
